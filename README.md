@@ -14,13 +14,13 @@
 
 ### 📄 What I have done
 
-| step |    name    |                            repository                             |
-| :--: | :--------: | :---------------------------------------------------------------: |
-|  1   |  todolist  | [somedaycode/todo-list](https://github.com/somedaycode/todo-list) |
-|  2   |  sidedish  |  [somedaycode/sidedish](https://github.com/somedaycode/sidedish)  |
-|  3   |  baseball  |  [somedaycode/baseball](https://github.com/somedaycode/baseball)  |
-|  4   |   airbnb   |    [somedaycode/airbnb](https://github.com/somedaycode/airbnb)    |
-|  5   | loading... |                           [loading..]()                           |
+| step |          name           |                            repository                             |
+| :--: | :---------------------: | :---------------------------------------------------------------: |
+|  1   |        todolist         | [somedaycode/todo-list](https://github.com/somedaycode/todo-list) |
+|  2   |        sidedish         |  [somedaycode/sidedish](https://github.com/somedaycode/sidedish)  |
+|  3   |        baseball         |  [somedaycode/baseball](https://github.com/somedaycode/baseball)  |
+|  4   |         airbnb          |    [somedaycode/airbnb](https://github.com/somedaycode/airbnb)    |
+|  5   | issueTracker(현 진행중) |  [issueTracker](https://github.com/JUNGYUN-Daegu/issue-tracker)   |
 
 <br/>
 <br/>
